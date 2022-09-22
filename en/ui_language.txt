@@ -5,7 +5,7 @@ The Scroll of Taiwu
 Start
 "Aliens from WanQu, Arrive by ConchShip"
 Press Any Button to Start
-按任意键继续
+Press Any Button to Continue
 Select A Character
 <color=#8E8E8EFF>New Character</color>
 第{0}年第{1}世太吾
@@ -13,7 +13,7 @@ Select A Character
 正在<color=#B97D4BFF>{0}</color><color=#9B8773FF>「{1}」</color>
 创建太吾开始新的游戏…
 Create Character
-Enter the world of Taiwu...
+Enter the World of Taiwu...
 Enter the World
 Recover backups
 Revert saves to a chosen backup
@@ -66,102 +66,102 @@ The faster the invasion speed, the easier it is for Taiwu Village to be destroye
 World Condition
 A prosperous world will benefit the development of Taiwu.\nBut even the most barren world can gradually recover.\n<color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>
 Random Heir
-当太吾氏没有任何继承人时，是否出现随机的继承人以保证太吾氏得以延续。\n<color=#E3C66DFF>（没有继承人将导致游戏失败！）</color>
-立场的限制
-立场的限制将限制不同的处世立场在游戏中可选择的事件选项，以体验更为真实的太吾世界
-世界人口数
-人口数量决定了游戏内活跃npc的数量上限，npc数量越多，太吾世界越精彩。\n<color=#E3C66DFF>（世界的人口数量越多需要的电脑性能越好。）</color>\n<color=#E4504DFF>（此选项无法在游戏开始后变更！）</color>
-姓名立场
-性别相貌
-出身特质
-出生地区
-世界细节
-世界概况
-世界细节设定
-自定义细节
-难度设定
-经历
-财富
-技艺
-难度
-<color=#8E8E8EFF>闲庭信步</color>
-<color=#FBFBFBFF>跋山涉水</color>
-<color=#E3C66DFF>如履薄冰</color>
-<color=#E4504DFF>寸步难行</color>
-<color=#8E8E8EFF>自定设置</color>
-姓氏名字
-输入人物的姓氏
-姓氏
-输入人物的名字
-名字
-处世立场
-改变立场
-拖动以改变人物的立场…
-随机姓名
-随机设定人物的姓名…
-姓氏与名字均不可超过2字
-出生属性
-年龄：
+When Taiwu dies without potential successor, whether you want a random heir to be assigned to ensure Taiwu gets inherited or not.\n<color=#E3C66DFF>(The game is over if no heir is assigned!)</color>
+Restriction on Standpoint
+Available options in events will be limited based on different standpoint restrictions, for experiencing more realistic World of Taiwu.
+World Population
+Population controls how many NPCs are active in game. The more number of NPCs there are, the more colorful for the World of Taiwu.\n<color=#E3C66DFF>(The more computing power is required for higher world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+Name & Standpoint
+Gender & Appearance
+Traits
+Place of Birth
+World Details
+World Overview
+World Details Settings
+Custom Details
+Difficulty Settings
+Experience
+Assets
+Artistry
+Difficulty
+<color=#8E8E8EFF>Easy</color>
+<color=#FBFBFBFF>Medium</color>
+<color=#E3C66DFF>Hard</color>
+<color=#E4504DFF>Harder</color>
+<color=#8E8E8EFF>Custom</color>
+Full Name
+Character's Surname
+Surname
+Character's Name
+Name
+Standpoint
+Change Standpoint
+Drag to change the character's standpoint...
+Random Name
+Randomly generate the character's name...
+Either surname or name cannot be exceeded 2 characters
+Birth Attributes
+Age: 
 【{0}】
-生时：
-女生男相
-男生女相
-颜色锁定
-性别属性
-体型
-肤色
-前发
-后发
-眉毛
-眼睛
-鼻子
-嘴巴
-上胡须
-下胡须
-特征一
-特征二
-服装
-选择体型
-选择肤色
-选择前发
-选择后发
-选择眉毛
-选择眼睛
-选择鼻子
-选择嘴巴
-选择上胡须
-选择下胡须
-选择特征
-选择服装
-该特征不可以自定义颜色！
+Born at: 
+Masculine
+Feminine
+Lock Color
+Gender Attributes
+Body
+Skin Color
+Front Hair
+Back Hair
+Eyebrow
+Eyes
+Nose
+Lips
+Mustache
+Beard
+First Trait
+Second Trait
+Cloth
+Choose Body
+Choose Skin Color
+Choose Front Hair
+Choose Back Hair
+Choose Eyebrow
+Choose Eyes
+Choose Nose
+Choose Lips
+Choose Mustache
+Choose Beard
+Choose Traits
+Choose Cloth
+Can't change color for this trait!
 需要提供id为 {0} 的体型数据以启用此选项
-统一毛发颜色
+Unify Hair Colors
 此项的颜色会随其它一同被锁定的颜色一起变化。
-随机外貌
-获得一个随机组合的人物外貌…
-男性
-选择人物的性别为男性。\n<color=#yellow>（性别不会影响人物的属性。）</color>
-女性
-选择人物的性别为女性。\n<color=#yellow>（性别不会影响人物的属性。）</color>
-生相
-世间有天生异貌者：男生而女相、女生而男相。
-出生月
-出生于不同月的人物有着不同的赋性与能力。
-经历特质
-财富特质
-技艺特质
-已选特质
-清空已选特质
-选择经历特质
-选择财富特质
-选择技艺特质
-选择特质
-可用点数：
-<color=#FBFBFBFF>花费特质点数：<color={0}>{1}</color></color>\n<color={2}>需要投入{3}点数：<color={4}>{5}</color> / {6}</color>\n\n
-出生地信息
-{0}主要城市：<color=#pinkyellow>【{1}】</color>
-{0}主要门派：<color=#pinkyellow>【{1}】</color>
-出生地类型
+Random Appearance
+Randomly generate the character's appearance...
+Male
+Set character's gender to male.\n<color=#yellow>(Gender won't affect character's stats.)</color>
+Female
+Set character's gender to female.\n<color=#yellow>(Gender won't affect character's stats.)</color>
+Look
+Look might be different from gender: Guys that look like girls, or girls that look like guys.
+Birth Month
+There will be some difference bonus for the people born at different months.
+Experience Traits
+Assets Traits
+Artistry Traits
+Selected Traits
+Clear Selected Traits
+Select Experience Traits
+Select Assets Traits
+Select Artistry Traits
+Select Traits
+Available Points: 
+<color=#FBFBFBFF>Trait points spent: <color={0}>{1}</color></color>\n<color={2}>Requires {3} points: <color={4}>{5}</color> / {6}</color>\n\n
+Birthplace Info
+{0}Major City: <color=#pinkyellow>【{1}】</color>
+{0}Major Sect: <color=#pinkyellow>【{1}】</color>
+Birthplace Type
 {0}「{1}」\n<color=#yellow>「{2}」</color>
 点击以查看此地主要门派的功法
 需要给角色赐姓起名
@@ -292,7 +292,7 @@ Off
 到：\n{0}\n<color=#yellow>「{1}」</color>
 终止旅行
 确定要终止旅行吗？已支付的银钱和威望不会返还。
-技艺
+Artistry
 功法
 修习
 消耗「历练」，提升所选功法的修习程度…
@@ -1345,7 +1345,7 @@ Off
 造诣：
 地方
 门派
-技艺
+Artistry
 西域
 秘闻
 公开秘闻
@@ -1672,8 +1672,8 @@ Off
 选项35
 选项36
 无
-输入人物的姓氏
-输入人物的名字
+Character's Surname
+Character's Name
 创建新的角色
 使用铭刻角色
 垂危
@@ -1846,7 +1846,7 @@ Off
 好感不足
 状态
 属性
-技艺
+Artistry
 武学
 赋性
 持有
@@ -2163,9 +2163,9 @@ Roll up the Scroll
 将在<color=#pinkyellow>{0}</color>个月后服食完毕……
 消耗时间
 天
-根据人物当前   医术造诣
+根据人物当前    医术造诣
 拥有疗伤次数{0}/月
-根据人物当前   毒术造诣
+根据人物当前    毒术造诣
 拥有驱毒次数{0}/月
 无伤无病，无须治疗……
 无毒无痛，无须驱毒……
@@ -2182,11 +2182,11 @@ Roll up the Scroll
 同道
 持有
 装备
-技艺
+Artistry
 武学
 运功
 关系
-经历
+Experience
 见闻
 交谈
 铭刻
@@ -2302,13 +2302,14 @@ Roll up the Scroll
 捕虫网{0}/1
 涉世未深，前路未明
 继续未完成的旅途…
+\n\n已收服此外道巢穴，可派遣村民至此监管……
 道具获得提示
 获得了\n{0}
 出现了重复的事件组Key：{0}
 出现了重复的事件组文本：{0}
 头发
 胡子
-眉毛
+Eyebrow
 头发、胡子和眉毛
 小白石
 白明石
@@ -2617,7 +2618,7 @@ Female
 缩放
 间距
 支持
-名字
+Name
 调用方法 {0} {1}
 {0} 执行失败 \n{1}
 不能在旅行中使用 GM 命令
@@ -2721,7 +2722,7 @@ Start
 战斗
 产业
 功法
-技艺
+Artistry
 将角色移动到当前地格
 进入角色界面
 杀死目标
