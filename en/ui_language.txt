@@ -1,4 +1,4 @@
-Are you sure you want to exit the game？
+Are you sure you want to exit the game?
 The Scroll of Taiwu
 登坛拜将观天下，金榜提名傲群雄。\n\n待到秋来九月八，我花开后百花杀。
 <size=60>健康游戏忠告</size>\n\n抵制不良游戏，拒绝盗版游戏。\n\n注意自我保护，谨防受骗上当。\n\n适度游戏益脑，沉迷游戏伤身。\n\n合理安排时间，享受健康生活。
@@ -163,69 +163,69 @@ Birthplace Info
 {0}Major Sect: <color=#pinkyellow>【{1}】</color>
 Birthplace Type
 {0}「{1}」\n<color=#yellow>「{2}」</color>
-点击以查看此地主要门派的功法
-需要给角色赐姓起名
-角色名字不能包含数字空格或者特殊字符
-还有未使用的特性点，确定要进入太吾世界吗？
-<color=#red>选择了太多的特性，超出了可用特性点，无法进入游戏</color>
-无立场
-<color=#BehaviorType_Just>刚正</color>
-<color=#BehaviorType_Kind>仁善</color>
-<color=#BehaviorType_Even>中庸</color>
-<color=#BehaviorType_Rebel>叛逆</color>
-<color=#BehaviorType_Egoistic>唯我</color>
-刚正不阿之侠者，处世黑白分明。\n除恶则必尽，树德则必滋。世事纵有千变万化，正道总是仅此一条！
-慈悲仁义者，品行殊高洁。\n扶危能够舍己，济世能够忘我。可以报怨以德，宛然浑金璞玉一般。
-中庸无为者，处世不偏不倚。\n凡事顺其自然，但求折中调和。心中既少了正邪之分，或许终能成就开明大道？
-叛逆处世者，直性狭中、黑白颠倒。\n“应笑”而不笑、“应喜”而不喜、“应慈”而不慈、“闻恶”而不改、“闻善”而不乐。
-世间唯我者，凌弱者，伐异己，党邪佞，欺良善。\n为达目的不择手段，唯利是图无情无义。
-平原
-山岳
-森林
-湖泽
-海滨
-雪山
-平原多沃野，各类资源丰富且平均……
-山岳蕴藏着大量的矿脉，甚至是天外的陨铁……
-森林有茂密的树木，资源丰富，鸟兽成群……
-湖泽多水域，地形复杂，多有奇景……
-海滨多水域，亦有幽斧神工之悬崖孤峰……
-雪山蕴藏着各类珍稀的宝石、矿物甚至是药材……
+Press to view skills for major sect of this area
+Name is required for this character
+Character's name may not contain numbers, spaces, or symbols
+There are still unused trait points, are you sure to enter the World of Taiwu?
+<color=#red>Too many traits have been selected, which exceeded available trait points, cannot start the game</color>
+No standpoint
+<color=#BehaviorType_Just>Just</color>
+<color=#BehaviorType_Kind>Kind</color>
+<color=#BehaviorType_Even>Even</color>
+<color=#BehaviorType_Rebel>Rebellious</color>
+<color=#BehaviorType_Egoistic>Egoistic</color>
+For you as a just warrior there's only black or white, right or wrong.\nThe evil must be punished, and morality shall be encouraged, for there's only one way of being human!
+You are compassionate, benevolent, and behaves noble.\nDedicating yourself to others, and repaying grievances with virtue. Your sense of morality is precious as gold and jade.
+You are moderate, unbiased, and mediocre.\nEverything goes with the flow, but prefers balance and harmony. You may finally tolerate everything in the world, for there is a lack of distinction between righteousness and evil in your heart.
+You are rebellious, straightforward, intolerant, and distort facts.\nHaving opposite views and practices with most people.
+You are egoistic. Bullying the weakers, crusading the different ones, colluding with the villains, and deceiving kind people.\nMercenary is ruthless, for profit is the only thing that matters.
+Plain
+Mountain
+Forest
+Swamp
+Seaside
+Snowberg
+The plains are fertile, resources are rich and balanced......
+The mountains contain a large number of veins, and even aerolites fallen from sky......
+The forest has dense trees, rich resources, and various animals......
+The swamp has many waterfields, the terrain is complex, and there are many magnificent spectacles......
+The seaside has many waterfields, and there are also magnificent cliffs......
+The snowberg contain all kinds of rare and precious gemstones, minerals, and even herbs......
 Settings
-基础设置
-详细设置
-窗口尺寸
-全屏显示
-全屏设置
-切换游戏为全屏或窗口显示…
-垂直同步
-开启或关闭垂直同步…
-开
-关
-音乐
-音乐音量
-开启或关闭游戏的背景音乐…
-音效
-音效音量
-调节音量
-拖动以调节音量大小…
-开启或关闭游戏的音效…
-存档备份
-开启或关闭存档备份…
-设置存档备份间隔
-拖动以改变存档备份的间隔月数…
-太吾
-太吾姓氏
-显示
-显示太吾姓氏
-在显示太吾传人的名字时，以“太吾”替代太吾传人原本的姓氏…
-隐藏
-不显示太吾姓氏
-在显示太吾传人的名字时，不以“太吾”替代太吾传人原本的姓氏…
-致命一击
-开启致命一击
+Basic Settings
+Advanced Settings
+Window Size
+Full-screen
+Full-screen Settings
+Switch display mode to windowed or full-screen...
+VSync
+Turn on or off VSync...
+On
+Off
+Music
+Music Volume
+Turn on or off game background music...
+Sound
+Sound Volume
+Adjust Volume
+Drag to adjust the volume...
+Turn on or off game sound effect...
+Backup Saves
+Turn on or off backup saves...
+Set intervals for backing up saves
+Drag to change the month interval for backing up saves...
+Taiwu
+Taiwu Surname
+Show
+Show Taiwu Surname
+Show "Taiwu" instead of the original surname for the name of Taiwu successor...
+Hide
+Hide Taiwu Surname
+Show the original surname for the name of Taiwu successor instead of "Taiwu"...
+Lethal Blow
+Turn on Lethal Blow
 开启致命一击时，如果在战斗中达成了某些特殊条件，将会出现破坏敌人身体而直接击杀敌人的选项，<color=#red>对于暴力表现无法适应的玩家还请将其关闭</color>…
-关闭致命一击
+Turn off Lethal Blow
 关闭致命一击时，不会在战斗中出现破坏敌人身体而直接击杀敌人的选项，<color=#red>对于暴力表现无法适应的玩家还请保持关闭</color>…
 On
 Off
