@@ -1,17 +1,17 @@
 Are you sure you want to exit the game?
 The Scroll of Taiwu
 登坛拜将观天下，金榜提名傲群雄。\n\n待到秋来九月八，我花开后百花杀。
-<size=60>健康游戏忠告</size>\n\n抵制不良游戏，拒绝盗版游戏。\n\n注意自我保护，谨防受骗上当。\n\n适度游戏益脑，沉迷游戏伤身。\n\n合理安排时间，享受健康生活。
+<size=60>Healthy advice</size>\n\nDon't play bad games, and refuse pirated content.\n\nBe careful, and don't get scammed.\n\nPlaying games moderately benefits your brain, being addicted hurts your body.\n\nSpend your time wisely, and enjoy a healthy life.
 Start
 "Aliens from WanQu, Arrive by ConchShip"
 Press Any Button to Start
 Press Any Button to Continue
 Select A Character
 <color=#8E8E8EFF>New Character</color>
-第{0}年第{1}世太吾
+Year {0} of Generation {1} of Taiwu
 <color=#8E8E8EFF>-</color>
 正在<color=#B97D4BFF>{0}</color><color=#9B8773FF>「{1}」</color>
-创建太吾开始新的游戏…
+Create a character to start a new game...
 Create Character
 Enter the World of Taiwu...
 Enter the World
@@ -51,26 +51,26 @@ Medium
 More
 Overwhelming
 {0} years old
-加载之际，或见伪死，此乃龟息之术也，望静候之…
+If the loading takes too long, or game freezes, be patient like a turtle and hope for the best...
 Unrolling the scroll...
-铭刻追忆
-选择已铭刻下来的角色进行游戏
+Save Game
+Select the saved character to play
 Lifespan
-The lifespan of all characters in game.\n<color=#E3C66DFF>(Lifespan will not affect the difficulty evaluation of the game)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+The average lifespan of the player and NPCs in-game.\n<color=#E3C66DFF>(Lifespan does not affect game difficulty)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
 Difficulty
-The level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; and the more intelligent enemies are, the more the action they will perform in battle, for example they will take better control of the distance and timing for attack and defence.)</color>
+Determines complexity of combat AI. Affects the level of strength and strategy of the enemies in battle.\n<color=#E3C66DFF>(The higher the difficulty, the stronger the enemy will be; the more intelligent enemies are; the more actions they will perform in battle)\n(For example: they will take better control of the distance and timing for attack and defence.)</color>
 Outlaws Amount
-Amount of outlaws scattered around the world.\n<color=#E3C66DFF>(The more outlaws there are, the more likely you will be attacked.)</color>
+The number of enemies that exist in the world. How quickly their numbers increase.\n<color=#E3C66DFF>(encounter rate increases with higher difficulty)</color>
 Invasion Speed
-The faster the invasion speed, the easier it is for Taiwu Village to be destroyed by the invasion of the XiangShu.\n<color=#E3C66DFF>(The game is over once the Taiwu Village gets destroyed.)</color>
+Increases the invasion speed of the Taiwu Village. Quicker invasion speeds mean less preparation time, making it harder to defend the village.\n<color=#E3C66DFF>(The game is over if the Taiwu Village is destroyed.)</color>
 World Condition
 A prosperous world will benefit the development of Taiwu.\nBut even the most barren world can gradually recover.\n<color=#E3C66DFF>(The world condition directly affects the recover speed of all kinds of resources in the world; The amount of resources gathered are likely to be different every time even in Wonderland world condition.)</color>
 Random Heir
-When Taiwu dies without potential successor, whether you want a random heir to be assigned to ensure Taiwu gets inherited or not.\n<color=#E3C66DFF>(The game is over if no heir is assigned!)</color>
+When the Taiwu (player) dies without selecting a successor, turning this 'On' will assign a random heir to ensure the Taiwu gets inherited. Otherwise there will be no heir.\n<color=#E3C66DFF>(The game is over if no heir is assigned!)</color>
 Restriction on Standpoint
-Available options in events will be limited based on different standpoint restrictions, for experiencing more realistic World of Taiwu.
+Choices made in events will be limited based on different standpoint restrictions, for a more realistic Taiwu world. (i.e., if you have chosen the Kind standpoint, you're limited to -------)
 World Population
-Population controls how many NPCs are active in game. The more number of NPCs there are, the more colorful for the World of Taiwu.\n<color=#E3C66DFF>(The more computing power is required for higher world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
+Controls the maximum limit of concurrent NPCs in the game. The more NPCs there are, the more diverse the World of Taiwu will be.\n<color=#E3C66DFF>(Higher processing power is required for larger world population)</color>\n<color=#E4504DFF>(This option cannot be changed once the game starts!)</color>
 Name & Standpoint
 Gender & Appearance
 Traits
@@ -84,11 +84,11 @@ Experience
 Assets
 Artistry
 Difficulty
-<color=#8E8E8EFF>Easy</color>
-<color=#FBFBFBFF>Medium</color>
-<color=#E3C66DFF>Hard</color>
-<color=#E4504DFF>Harder</color>
-<color=#8E8E8EFF>Custom</color>
+<color=#8E8E8EFF>A Leisurly Stroll</color>
+<color=#FBFBFBFF>A Thorny Path</color>
+<color=#E3C66DFF>Treading on Thin Ice</color>
+<color=#E4504DFF>Difficult to move an inch</color>
+<color=#8E8E8EFF>Custom settings</color>
 Full Name
 Character's Surname
 Surname
@@ -134,19 +134,19 @@ Choose Beard
 Choose Traits
 Choose Cloth
 Can't change color for this trait!
-需要提供id为 {0} 的体型数据以启用此选项
+A body type with an id of {0} is required to enable this option
 Unify Hair Colors
-此项的颜色会随其它一同被锁定的颜色一起变化。
+Changing color of this item will change color of the items that are locked together.
 Random Appearance
 Randomly generate the character's appearance...
 Male
 Set character's gender to male.\n<color=#yellow>(Gender won't affect character's stats.)</color>
 Female
 Set character's gender to female.\n<color=#yellow>(Gender won't affect character's stats.)</color>
-Look
-Look might be different from gender: Guys that look like girls, or girls that look like guys.
+Appearance
+Appearance may differ from gender: Men that look like women, or women that look like men.
 Birth Month
-There will be some difference bonus for the people born at different months.
+People born in different months have different talents and abilities.
 Experience Traits
 Assets Traits
 Artistry Traits
@@ -184,13 +184,13 @@ Mountain
 Forest
 Swamp
 Seaside
-Snowberg
+Snowy Mountains
 The plains are fertile, resources are rich and balanced......
-The mountains contain a large number of veins, and even aerolites fallen from sky......
+The mountains contain a large number ore of veins, and even meteorite iron from beyond the sky......
 The forest has dense trees, rich resources, and various animals......
 The swamp has many waterfields, the terrain is complex, and there are many magnificent spectacles......
 The seaside has many waterfields, and there are also magnificent cliffs......
-The snowberg contain all kinds of rare and precious gemstones, minerals, and even herbs......
+The snowy mountains contain all kinds of rare and precious gemstones, minerals, and even herbs......
 Settings
 Basic Settings
 Advanced Settings
@@ -224,39 +224,40 @@ Hide Taiwu Surname
 Show the original surname for the name of Taiwu successor instead of "Taiwu"...
 Lethal Blow
 Turn on Lethal Blow
-开启致命一击时，如果在战斗中达成了某些特殊条件，将会出现破坏敌人身体而直接击杀敌人的选项，<color=#red>对于暴力表现无法适应的玩家还请将其关闭</color>…
+When Lethal Blow option is ON, if certain conditions are met during the combat, there will be an option to instantly kill your enemy by mutilating them, <color=#red>We would suggest players who cannot accommodate it leave this option as OFF</color>...
 Turn off Lethal Blow
-关闭致命一击时，不会在战斗中出现破坏敌人身体而直接击杀敌人的选项，<color=#red>对于暴力表现无法适应的玩家还请保持关闭</color>…
+When Lethal Blow option is OFF, there will be no option to instantly kill your enemy by mutilating them in battle, <color=#red> we would suggest players who cannot accommodate it leave this option as ON</color>...
 On
 Off
-消息速度
-按键设置
-恢复默认
-是否将基础设置恢复为默认配置？
-是否将详细设置恢复为默认配置？
-与【{0}】冲突，是否覆盖？
-【{0}】为固定按键，请重新设置
-<color=#yellow>发现了新的驿站：<color=#darkbrown>{0}</color>！</color>
-开通驿站
-旅行至此
-确定花费<color=#darkpurple>{0}</color>威望开通<color=#darkbrown>{1}</color>的<color=#lightbrown>「{2}」</color>吗？
-世界区域
-查看世界地图与已经发现的各个区域…
-世界区域
-查看世界地图与已经发现的各个区域…
-旅行到…
+Message Speed
+Keyboard Settings
+Restore Default Settings
+Do you want to restore basic settings to default?
+Do you want to restore advanced settings to default?
+Conflict with【{0}】, override?
+【{0}】is a fixed button, please try again
+<color=#yellow>Discovered a new station: <color=#darkbrown>{0}</color>!</color>
+Activate Station
+Travel to Here
+Are you sure to spend <color=#darkpurple>{0}</color> prestige to activate <color=#lightbrown>「{2}」</color> station in <color=#darkbrown>{1}</color>?
+World Map
+Check world map and the places you have discovered...
+World Map
+Check world map and the places you have discovered...
+Travel to...
 确定花费<color=#lightblue>{0}</color>时间与<color=#yellow>{1}</color>银钱旅行到<color=#darkbrown>{2}</color>的<color=#lightbrown>「{3}」</color>吗？
 确定花费<color=#lightblue>{0}</color>时间旅行到<color=#darkbrown>{1}</color>的<color=#lightbrown>「{2}」</color>吗？
 开拓传驿通路到…
 确定花费<color=#lightblue>{0}</color>时间、<color=#yellow>{1}</color>银钱、<color=#darkpurple>{2}</color>威望旅行到<color=#darkbrown>{3}</color>的<color=#lightbrown>「{4}」</color>吗？
 沿途需要开通驿站的区域：
+需要开通附近的驿站才能开通此传驿通路…
 {0}你可知有何深意？作何解释？
 {0}最容易不过，且听我解来你听！
 {0}如此高深，难道你当真懂得？！
 ………………
 {0}如此高深，我确是不懂…
-可用书籍
-可用策略
+Available Books
+Available Strategies
 落棋无悔
 还有可用的书籍未选择，确定落子吗？
 己方
@@ -271,43 +272,43 @@ Off
 让手
 认输
 决定主题
-先
-后
+Sente
+Gote
 未明
 不论
 探明
 让选
 排除一项技艺【不论】\n直至仅剩一项
 对方排除中……
-得分：{0}
-总得分：{0}
+Score: {0}
+Total Score: {0}
 没有传驿通路…
 <color=#red>当前地区没有开通传驿通路，无法使用传驿通路旅行！</color>\n\n<color=#yellow>（前往此地区中建有驿站的村庄或城镇以开通此地区的传驿通路…）</color>
-威望不足…
+Insufficient prestige...
 <color=#yellow>剩余的<color=#darkpurple>「威望」</color>不足以开拓新的传驿通路…</color>
-银钱不足…
+Insufficient money...
 <color=#yellow>剩余的<color=#lightbrown>「银钱」</color>不足以完成这次旅行…</color>\n是否要花费{0}倍的时间进行此次旅行？
-正在长途旅行…
-从：\n{0}\n<color=#yellow>「{1}」</color>
-到：\n{0}\n<color=#yellow>「{1}」</color>
-终止旅行
-确定要终止旅行吗？已支付的银钱和威望不会返还。
+Long-distance Traveling...
+From: \n{0}\n<color=#yellow>「{1}」</color>
+To: \n{0}\n<color=#yellow>「{1}」</color>
+Cancel Traveling
+Are you sure you want to cancel traveling? The money and prestige spent will not be returned.
 Artistry
-功法
-修习
-消耗「历练」，提升所选功法的修习程度…
-修习进度：
-修习速度：
-+{0}%/月
-资质要求：
-造诣要求：
+Skills
+Practice
+Consume「Experience」to improve practice proportion of the chosen skill...
+Practice progress:
+Practice rate:
++{0}%/monthly
+Talent Requirement:
+Attainment Requirement:
 额外影响：
 修习大成
 已达到修习度上限
-历练不足
-习练此功法所需的<color=#yellow>「历练」</color>不足！
-时间不足
-本月剩余的<color=#yellow>「时间」</color>不足！
+Insufficient experience
+The<color=#yellow>「Experience」</color>required for practicing this skill is insufficient!
+Insufficient time
+The<color=#yellow>「Time」</color>required for practicing this skill is insufficient!
 策略：
 功法风格：
 所有门派
@@ -337,42 +338,42 @@ Artistry
 可能出现的突破效果
 加成突破格连接成功率 +20%\n天资上限 -3
 加成突破格连接成功率 -20%\n天资上限 +3
-额外生成一个起点，一开始就显示大部分特殊突破格。
-额外生成一个终点，一开始就显示大部分特殊突破格。
-威力上限+30%
-使用需求 -30%
+Generate an additional starting point that shows most of the special breakthrough cells at the beginning.
+Generate an additional end point that shows most of the special breakthrough cells at the beginning.
+Power limit +30%
+Stat requirements -30%
 突破未走火入魔完成时，功法威力+10%
 突破以走火入魔完成时，功法威力+10%
-功法威力+10%\n若突破后激活正练特效，效果加倍
-功法威力+10%\n若突破后激活逆练特效，效果加倍
-研读
-正在研读 {0}
-【研读效果】
-【参考书籍】
-【研读需求】
-书籍信息：
-当前书页研读效率：{0}
-灵光一闪几率：{0}
-参考一：
-参考二：
-参考三：
-此书页未研读
+Power of skill +10%\nIf the breakthrough activates the special effects of orthodox practice, the effect is doubled
+Power of skill +10%\nIf the breakthrough activates the special effects of heterodox practice, the effect is doubled
+Study
+Studying {0}
+【Study Effect】
+【Reference Books】
+【Study Requirements】
+Book info: 
+Current chapter study efficiency: {0}
+Chance of sudden insight: {0}
+First reference: 
+Second reference: 
+Third reference: 
+This chapter haven't been studied yet
 此总纲未研读
-需要选择研读书页
-研读速度：
-+{0}%/月
-书籍耐久：
-每月<color=#red>恶化</color>
-每月<color=#lightgreen>恢复</color>
+You need to select a chapter to study
+Studying Speed: 
++{0}%/monthly
+Book Durability: 
+Monthly<color=#red>Worsen</color>
+Monthly<color=#lightgreen>Restored</color>
 失
 残
 未
 阅
 正
 逆
-突破
-继续
-回顾
+Breakthrough
+Continue
+Review
 突破成就
 未选择功法
 突破玄关
@@ -384,7 +385,7 @@ Artistry
 竭尽全力
 走火入魔
 天资上限
-放弃
+Give Up
 历练消耗
 突破功法
 突破类型
@@ -417,31 +418,31 @@ Artistry
 ※
 ——
 ·
-攻击范围
+Attack Range
 前
-后
-伤害：
-品级
-威力
-属性
-心法
-【功法类型】
-武学
-传自
-修习程度
-【使用消耗】
-移动消耗
+Gote
+Damage: 
+Tier
+Power
+Type
+Understanding
+【Skill Type】
+Genre
+Learn From
+Practice Proportion
+【Cost】
+Movement Cost
 蛊引消耗
-兵器耐久
+Weapon Durability
 蓄式消耗
-气势消耗
-提气
-架势
-真气消耗
+Inhale/Stance Cost
+Inhale
+Stance
+Inhale Cost
 【功法栏位】
-【周天运转】
+【Cultivation】
 内力增长
-周天运转成功率
+Cultivating Success Rate
 内功
 摧破
 轻灵
@@ -478,22 +479,22 @@ Artistry
 【使用需求】
 当前发挥威力
 最大
-下·九阶
-中·八阶
-上·七阶
-奇·六阶
-秘·五阶
-极·四阶
-超·三阶
-绝·二阶
-神·一阶
+Ⅸ·Low
+Ⅷ·Mid
+Ⅶ·Fine
+Ⅵ·Rare
+Ⅴ·Superb
+Ⅳ·Epic
+Ⅲ·Legendary
+Ⅱ·Ultimate
+Ⅰ·Divine
 阶
 品
-金刚
-紫霞
-玄阴
-纯阳
-归元
+Metal
+Wood
+Water
+Fire
+Earth
 混元
 零
 一
@@ -510,9 +511,9 @@ Artistry
 无法卸力
 无法拆招
 无法闪避
-按住［ALT］键查看详细信息…
-长按
-松开
+Hold [ALT] key for detailed information...
+Hold
+Release
 查看详细信息…
 回到简略信息…
 轻外伤
@@ -532,7 +533,7 @@ Artistry
 选择预设
 {0}\n<color=red>已经存在，确定保存将覆盖此预设</color>
 预设名不能包含下列字符：\n<color=yellow>{0}</color>
-{0} 保存成功！
+{0} Saved Successfully！
 <color=#darkbrown>{0}</color><color=#lightbrown>{1}</color>在<color=#darkbrown>{2}</color>的<color=#red>评价极低，舆论哗然。</color>
 <color=#darkbrown>{0}</color><color=#lightbrown>{1}</color>在<color=#darkbrown>{2}</color>的<color=#red>评价很低，恶名远播。</color>
 <color=#darkbrown>{0}</color><color=#lightbrown>{1}</color>在<color=#darkbrown>{2}</color>的<color=#yellow>评价较低，世人嗤之以鼻。</color>
@@ -638,7 +639,7 @@ Deadly
 <color=#yellow>「专注」</color>程度影响人物整体的提气、架势效率…\n\n<color=#yellow>（每当人物受到攻击或妨害，专注程度就会上升！)</color>\n
 继续或暂停战斗
 点击（或按下SPACE空格键）继续或暂停战斗…\n
-战斗暂停
+Paused
 {0}伤势
 守御：{0} \n伤势：{1} \n
 变招次数：{0}
@@ -646,9 +647,9 @@ Deadly
 身法值：{0}
 攻击范围：{0}
 不在攻击范围
-武器耐久不足
+Low Weapon Durability
 武器内功比例
-处决
+Execution
 移动蓄力
 转动式盘以变招
 变招成功，任意点击以确认
@@ -667,10 +668,10 @@ Deadly
 灌注内力、凝聚真气。\n增强御体与御气以减轻受到的外伤和内伤。
 灌注内力、凝聚真气。\n增强内息的运转提高内息能力。
 随机应变
-武器一
-武器二
-武器三
-品级
+Weapon 1
+Weapon 2
+Weapon 3
+Tier
 价值
 好感
 重量
@@ -775,7 +776,7 @@ Normal
 地点人物
 人物
 敌人
-商人
+商队
 坟墓
 未知区域
 文化
@@ -794,7 +795,7 @@ Normal
 花费银钱
 由于此地区没有传驿通路…\n你需要花费<color=#darkpurple>{0}「威望」</color>用于开拓传驿通路才能前往！<color=#red>\n（每次开拓传驿通路之后，下一次所需花费的<color=#darkpurple>「威望」</color>就会增加！）</color>
 选择要消耗的天数
-周天运转
+Cultivation
 <color=#red>尚未选择周天运转的内功！</color>\n\n通过“周天运转”，可增长内力，转变自身内力属性…
 <color=#red>携带的物品总重量超过了最大负重！你将在月份更替时丢失若干物品！</color>
 <color=#red>仓库中存放的物品总量超过了仓库的最大容量！你将在月份更替时丢失若干物品！</color>
@@ -982,7 +983,7 @@ New
 搜集补给会导致本时节停留在原地
 换取补给
 可交换补给：{0}
-地区恩义：{0}
+地区恩义：{0}%
 门派支持：{0}%
 <color=#red>建设空间不足…</color>
 打开仓库
@@ -1128,7 +1129,7 @@ New
 <color=#yellow>需要：</color><color=#orange>{0}</color>
 选择一个符合要求的物品，用于开启此奇遇。
 经过<color=#red>暗渊</color>！队伍中的所有同道均受到了损伤！
-<color=#yellow>发现了新的驿站：<color=#darkbrown>{0}</color>！</color>
+<color=#yellow>Discovered a new station: <color=#darkbrown>{0}</color>!</color>
 选择目的地
 派遣村民
 在此地派遣村民后，可以在村民调度界面召回村民…
@@ -1188,9 +1189,9 @@ New
 相枢降世
 相枢真身降世，日月黯淡无光…\n\n所有门派的支持上限：<color=#8FBAE7FF>100%</color>。\n所有地区的恩义上限：<color=#8FBAE7FF>100%</color>。\n所有商人的好感上限：<color=#6DB75FFF>100%</color>。\n\n即令<color=#E4504DFF>最尊贵之人</color>也可能被相枢夺取心神…\n即令<color=#E4504DFF>最尊贵之人</color>也愿意成为太吾的同道…
 剑冢异动
-太吾村附近的“{0}”剑冢接连显现出可怕的异象，似乎有什么东西将要破冢而出！
+太吾村附近的{0}接连显现出可怕的异象，似乎有什么东西将要破冢而出！
 破冢而出
-一名自称“相枢化身”的强敌已从太吾村附近的“{0}”剑冢之中破冢而出！径直向太吾村而来！
+一名自称“相枢化身”的强敌已从太吾村附近的{0}之中破冢而出！径直向太吾村而来！
 行囊负重不足
 行囊中存放的物品总重量超过了最大负重！\n在地图上进行移动时所需消耗的时间额外增加<color=#red>{0}%</color>！\n<color=#red>会因此在月份更替时丢失若干物品！</color>
 仓库空间不足
@@ -1339,10 +1340,10 @@ Off
 均衡
 早熟
 晚成
-资质
-造诣
-资质：
-造诣：
+Talent
+Attainment
+Talent: 
+Attainment: 
 地方
 门派
 Artistry
@@ -1351,6 +1352,8 @@ Artistry
 公开秘闻
 {0} 的秘闻
 {0} 的见闻
+牵涉其中
+与己无关
 此秘闻将在{0}月后被人遗忘……
 知晓人数到达{0}后，此秘闻将会公开……
 传播此秘闻需要消耗{0}
@@ -1370,6 +1373,9 @@ Artistry
 进攻
 守御
 机略
+进攻越高，人物在战斗中作为出战同道时，就能越频繁地出现出战、催发、攻击、掠阵指令…
+守御越高，人物在战斗中作为出战同道时，就能越频繁地出现防御、还护、解穴、警示指令…
+机略越高，人物在战斗中作为出战同道时，就能越频繁地出现迅进、拉回、疗伤、驱毒、真气指令…\n机略的高低决定着战斗、较艺的先手后情况…\n机略越高，人物在战斗中就能使用越多的物品…\n机略越高，人物在较艺开始时就能探明越多较艺的主题…
 攻防
 膂力
 灵敏
@@ -1379,6 +1385,7 @@ Artistry
 悟性
 生育
 喜恶
+已消耗的属性会在每次月份更替时得到一定程度的恢复…
 称号
 由于人物的各种成就而获得的称号…\n\n
 人物的姓名…\n\n<color=#pinkyellow>·某些情况下，人物的姓名可能并非其真名</color>
@@ -1390,7 +1397,7 @@ Artistry
 身份
 人物在所属城镇或门派中的身份或地位…\n\n<color=#pinkyellow>·身份或地位越高的人物，越难结交\n·身份或地位共有从低到高九个级别：\n<color=#GradeColor_0>灰</color>、<color=#GradeColor_1>白</color>、<color=#GradeColor_2>绿</color>、<color=#GradeColor_3>蓝</color>、<color=#GradeColor_4>青</color>、<color=#GradeColor_5>紫</color>、<color=#GradeColor_6>黄</color>、<color=#GradeColor_7>橙</color>、<color=#GradeColor_8>红</color></color>
 立场
-处世立场代表人物最根本的处世态度和观念…\n<color=#pinkyellow>·立场差别越大的两个人，越难相处\n·不同的立场能够发起的行为不尽相同\n·不同的立场在许多事件中获得的结果不尽相同\n\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Egoistic>唯我</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Rebel>叛逆</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>中庸</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Kind>仁善</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Just>刚正</color></color>
+处世立场代表人物最根本的处世态度和观念…\n<color=#pinkyellow>·立场差别越大的两个人，越难相处\n·不同的立场能够发起的行为不尽相同\n·不同的立场在许多事件中获得的结果不尽相同\n\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_4><color=#BehaviorType_Egoistic>唯我</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_3><color=#BehaviorType_Rebel>叛逆</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_2><color=#BehaviorType_Even>中庸</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_1><color=#BehaviorType_Kind>仁善</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_lichang_0><color=#BehaviorType_Just>刚正</color></color>
 名誉
 名誉代表世人对人物的看法，与人物的善恶无关。\n\n<color=#pinkyellow>·名誉的高低会影响他人对人物的好感\n·名誉低至「<color=#FameType_Worse>千夫所指</color>」时，会遭遇侠士们的袭击\n·名誉从低到高：\n\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_0><color=#FameType_Worst>妖魔鬼怪</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_1><color=#FameType_Worse>千夫所指</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_2><color=#FameType_Bad>名声败坏</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_3><color=#FameType_Normal>默默无闻</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_4><color=#FameType_Good>立身扬名</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_5><color=#FameType_Better>声驰千里</color>\n<SpName=mousetip_lingxing> <SpName=mousetip_mingyu_6><color=#FameType_Best>誉满天下</color></color>
 <color=#FameType_Worst>妖魔鬼怪</color>
@@ -1422,8 +1429,8 @@ Artistry
 次
 功法资质
 技艺资质
-提气速度
-架势速度
+提气恢复
+架势恢复
 移动速度
 步伐稳健
 施展速度
@@ -1535,7 +1542,7 @@ Artistry
 璇女
 铸剑
 空桑
-金刚
+Metal
 五仙
 界青
 伏龙
@@ -1845,9 +1852,9 @@ Character's Name
 好感不足，无法拿取这么多资源！
 好感不足
 状态
-属性
+Type
 Artistry
-武学
+Genre
 赋性
 持有
 伤势
@@ -2042,7 +2049,8 @@ Artistry
 耐力-{0}
 斗性-{0}
 耐久-{0}
-还可以使用{0}次……
+还可以与人谈论{0}次……
+与见闻出于同个地区的人物谈论该见闻的效果下降…\n与见闻出于不同地区的人物谈论该见闻的效果上升…
 零
 壹
 贰
@@ -2150,7 +2158,7 @@ Roll up the Scroll
 以下的内伤
 内力恢复
 【兵器属性】
-攻击范围
+Attack Range
 攻势
 【护具属性】
 外伤减少
@@ -2183,7 +2191,7 @@ Roll up the Scroll
 持有
 装备
 Artistry
-武学
+Genre
 运功
 关系
 Experience
@@ -2194,7 +2202,7 @@ Experience
 需要消耗“验毒银针”1枚和时间<color=#white> {0} </color>/1，以查验物品中是否有毒……
 需要消耗“验毒银针”1枚和时间<color=#C16927> {0} </color>/1，以查验物品中是否有毒……
 没有“验毒银针”，无法查验物品中是否有毒……
-属性
+Type
 伤病
 轮回
 伤势毒素
@@ -2303,6 +2311,7 @@ Experience
 涉世未深，前路未明
 继续未完成的旅途…
 \n\n已收服此外道巢穴，可派遣村民至此监管……
+再次点击物品以确认选择
 道具获得提示
 获得了\n{0}
 出现了重复的事件组Key：{0}
@@ -2721,7 +2730,7 @@ Start
 地图
 战斗
 产业
-功法
+Skills
 Artistry
 将角色移动到当前地格
 进入角色界面
